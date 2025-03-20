@@ -1,0 +1,10 @@
+1.Rice (1 kg): LKR 150 
+2.Wheat Flour (1 kg): LKR 120
+3.Sugar (1 kg): LKR 150
+4.Salt (1 kg): LKR 50
+5.Lentils (1 kg): LKR 300
+6.Dhal (1 kg): LKR 300
+7.Tea (1 kg): LKR 1,200(based on brand)
+8.Coffee (1 kg): LKR 2,000
+9.Soft Drinks (500ml): LKR 100
+10.Bottled Water (1.5L): LKR 70
